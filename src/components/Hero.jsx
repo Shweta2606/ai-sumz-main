@@ -9,7 +9,7 @@ function Hero() {
         <button
           type="button"
           onClick={() => {
-            window.open("https://github.com/Shweta2606/ai-sumz");
+            window.open("https://github.com/hemantwasthere/ai-sumz");
           }}
           className="black_btn"
         >
